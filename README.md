@@ -36,5 +36,5 @@ If you want to dive into the data processing, run the Jupyter notebooks locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/kochi-urban-equity.git](https://github.com/yourusername/kochi-urban-equity.git)
+   git clone https://github.com/imprayush892/kochi_urban_equity_dashboard.git
    cd kochi-urban-equity
